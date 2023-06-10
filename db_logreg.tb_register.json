@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "648481cea0511c5eec0fabe9"
+  },
+  "username": "2205551012",
+  "password": "9",
+  "gmail": "ista@gmail.com",
+  "alamat": "denpasar",
+  "no_tlp": "1230",
+  "role": "admin"
+},
+{
+  "_id": {
+    "$oid": "64849e24a0511c5eec0fabf0"
+  },
+  "username": "ayu ista",
+  "password": "9",
+  "gmail": "ista@gmail.com",
+  "alamat": "denpasar",
+  "no_tlp": "123",
+  "role": "user"
+},
+{
+  "_id": {
+    "$oid": "64849ed0a0511c5eec0fabf1"
+  },
+  "username": "ayuwati30",
+  "password": "0000",
+  "gmail": "ista@gmail.com",
+  "alamat": "denpasar",
+  "no_tlp": "123",
+  "role": "admin"
+}]

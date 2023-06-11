@@ -1,0 +1,9 @@
+[{
+  "_id": {
+    "$oid": "64858869a0511c5eec0fac2e"
+  },
+  "nama_paket": "melancaran ke b",
+  "harga_paket": "00",
+  "deskripsi_paket": "luv",
+  "gambar_paket": "images/popular-3.jpg"
+}]

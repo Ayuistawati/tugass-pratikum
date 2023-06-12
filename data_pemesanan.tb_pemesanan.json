@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "647c89885785377833d850f2"
+  },
+  "Id_paket": " 111",
+  "nama_paket": " Bali package",
+  "harga_paket": " 250000",
+  "jumlah_paket": " 1",
+  "metode_pembayaran": " Transfer bank",
+  "tanggal_pemesanan": " 2023-06-03"
+},
+{
+  "_id": {
+    "$oid": "647c9bb1fc617bd79a02be42"
+  },
+  "id_paket": "111",
+  "nama_paket": "gggg",
+  "harga_paket": "25000",
+  "jumlah_paket": "1",
+  "metode_pembayaran": "Transfer Bank",
+  "tanggal_pemesanan": "2023-06-05"
+},
+{
+  "_id": {
+    "$oid": "647e7f398928ec7be6066981"
+  },
+  "id_paket": "111",
+  "nama_paket": "gggg",
+  "harga_paket": "222",
+  "jumlah_paket": "1",
+  "metode_pembayaran": "Transfer Bank",
+  "tanggal_pemesanan": "2023-06-23"
+},
+{
+  "_id": {
+    "$oid": "647eb512ca27988ed50b1b91"
+  },
+  "id_paket": "111",
+  "nama_paket": "gggg",
+  "harga_paket": "1",
+  "jumlah_paket": "1",
+  "metode_pembayaran": "Transfer Bank",
+  "tanggal_pemesanan": "2023-06-20"
+}]

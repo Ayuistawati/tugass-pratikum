@@ -39,7 +39,7 @@
                 <button type="submit" name="register">Register</button>
             </div>
         </form>
-        <p>Already have an account? <a href="index.php">Login here</a></p>
+        <p>Already have an account? <a href="index.php">Login Here</a></p>
     </div>
 </body>
 </html>

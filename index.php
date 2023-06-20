@@ -19,7 +19,6 @@
             <div class="form-group">
                 <label for="role">Role:</label>
                 <select name="role" id="role">
-                    <option value="admin">Admin</option>
                     <option value="user">User</option>
                 </select>
             </div>
@@ -27,7 +26,7 @@
                 <button type="submit" name="login">Login</button>
             </div>
         </form>
-        <p>Don't have an account? <a href="register.php">Register here</a></p>
+        <p>Don't have an account? <a href="register.php">Register Here</a></p>
     </div>
 </body>
 </html>
